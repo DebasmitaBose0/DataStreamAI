@@ -1,0 +1,21 @@
+sub_id,user_id,plan_name,monthly_price,start_date,renewal_date,status,payment_method
+SUB501,U1001,Premium 4K,19.99,2024-01-10,2024-02-10,active,credit_card
+SUB502,U1002,Premium 4K,19.99,2024-01-12,2024-02-12,active,upi
+SUB503,U1003,Standard HD,14.99,2024-01-15,2024-02-15,active,paypal
+SUB504,U1004,Basic SD,9.99,2024-01-18,2024-02-18,active,credit_card
+SUB505,U1005,Premium 4K,19.99,2024-01-20,2024-02-20,active,apple_pay
+SUB506,U1006,Standard HD,14.99,2024-01-22,2024-02-22,active,credit_card
+SUB507,U1007,Basic SD,9.99,2024-01-25,2024-02-25,active,google_pay
+SUB508,U1008,Premium 4K,19.99,2024-01-28,2024-02-28,active,credit_card
+SUB509,U1009,Standard HD,14.99,2024-02-01,2024-03-01,active,paypal
+SUB510,U1010,Premium 4K,19.99,2024-02-03,2024-03-03,active,klarna
+SUB511,U1011,Premium 4K,19.99,2024-02-05,2024-03-05,active,upi
+SUB512,U1012,Standard HD,14.99,2024-02-08,2024-03-08,active,pix
+SUB513,U1013,Basic SD,9.99,2024-02-10,2024-03-10,active,credit_card
+SUB514,U1014,Premium 4K,19.99,2024-02-12,2024-03-12,active,direct_debit
+SUB515,U1015,Standard HD,14.99,2024-02-15,2024-03-15,active,grab_pay
+SUB516,U1016,Premium 4K,19.99,2024-02-18,2024-03-18,active,credit_card
+SUB517,U1017,Basic SD,9.99,2024-02-20,2024-03-20,cancelled,credit_card
+SUB518,U1018,Standard HD,14.99,2024-02-22,2024-03-22,active,sofort
+SUB519,U1019,Premium 4K,19.99,2024-02-25,2024-03-25,active,credit_card
+SUB520,U1020,Standard HD,14.99,2024-02-28,2024-03-28,active,paypay

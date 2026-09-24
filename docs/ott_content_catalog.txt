@@ -1,0 +1,32 @@
+# DataStream OTT Content Catalog & Highlights
+
+## Flagship Original Productions
+1. Cybernetic Dawn (Content ID: MOV101)
+- Genre: Sci-Fi / Cyberpunk Thriller
+- Director: Denis Villeneuve
+- Duration: 135 minutes | Rating: 8.7/10 | Release Year: 2023
+- Synopsis: In 2084 Neo-Detroit, synthetic neuro-architect Dr. Kaelen discovers an autonomous AI entity quietly reshaping urban infrastructure. Widely acclaimed for stunning visual aesthetics and atmospheric soundtrack.
+
+2. Quantum Silicon (Content ID: SER201)
+- Genre: High-stakes Tech Drama (Series, 10 Episodes)
+- Director: Christopher Nolan
+- Duration: 55 mins/episode | Rating: 9.1/10 | Release Year: 2023
+- Synopsis: The clandestine race between rival semiconductor consortiums to achieve room-temperature quantum supremacy. Centers on lead quantum physicist Dr. Aris Thorne.
+
+3. Midnight Protocol (Content ID: SER202)
+- Genre: Cyberpunk Espionage Series
+- Director: Lilly Wachowski
+- Duration: 48 mins/episode | Rating: 8.4/10 | Release Year: 2024
+- Synopsis: A rogue group of ethical security analysts uncovers a global algorithmic surveillance network embedded in financial trading backbones.
+
+4. Silicon Dreams: AI Revolution (Content ID: DOC301)
+- Genre: Feature Technology Documentary
+- Director: Werner Herzog
+- Duration: 90 minutes | Rating: 9.3/10 | Release Year: 2024
+- Synopsis: An introspective cinematic investigation into artificial intelligence, machine ethics, and human creativity, featuring exclusive interviews with premier AI researchers.
+
+5. Solaris Horizon (Content ID: MOV106)
+- Genre: Sci-Fi Space Opera
+- Director: Ridley Scott
+- Duration: 150 minutes | Rating: 8.6/10 | Release Year: 2024
+- Synopsis: Humanity's first deep-space relativistic expedition to the outer rings of Saturn encounters an enigmatic cosmic monolith.

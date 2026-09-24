@@ -1,0 +1,21 @@
+# DataStream OTT Platform Architecture & Operations Guide
+
+## Platform Overview
+DataStream OTT is a global next-generation digital streaming service delivering 4K UHD movies, episodic series, and investigative documentaries to millions of active subscribers across North America, Europe, Latin America, and Asia.
+
+## Subscription Tiers & Pricing
+1. Basic SD ($9.99/month): Single stream, 720p resolution, ad-supported, accessible on Mobile and Web.
+2. Standard HD ($14.99/month): Dual concurrent streams, 1080p Full HD resolution, ad-free streaming, accessible on all devices.
+3. Premium 4K ($19.99/month): Up to 4 concurrent streams, 4K HDR + Dolby Atmos audio, offline downloads enabled, Smart TV and game console apps supported.
+
+## Supported Streaming Devices
+The platform supports native clients on Smart TVs (Samsung Tizen, LG webOS, Apple TV, Android TV), Mobile devices (iOS 16+, Android 12+), Web browsers (Chrome, Firefox, Safari, Edge), and Tablets.
+
+## Data Governance & Privacy Standards
+DataStream AI adheres to modern data minimization principles inspired by India's DPDP Act and the EU GDPR:
+- Telemetry masking: All IP addresses are truncated to /16 prefix at ingestion.
+- Email and telephone redaction: User PII is pseudonymized before landing in analytical warehouse marts.
+- Retention policy: Raw streaming telemetry logs are archived after 90 days; aggregate engagement tables are preserved for long-term analytics.
+
+## Technical Ingestion SLA
+The event streaming bus targets sub-second delivery for user heartbeat telemetry. Ingestion failure recovery operates with an automated 3-stage exponential backoff retry mechanism.

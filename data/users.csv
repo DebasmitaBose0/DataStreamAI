@@ -1,0 +1,22 @@
+user_id,name,email,phone,country,registration_date,tier,status
+U1001,Johnathan Vance,john.vance@example.com,+1-555-019-2831,USA,2024-01-10,Premium,active
+U1002,Debasmita Roy,debasmita.roy@gmail.com,+91-98765-43210,India,2024-01-12,Premium,active
+U1003,Marcus Aurelius Chen,marcus.chen@techcorp.io,+1-555-442-9901,Canada,2024-01-15,Standard,active
+U1004,Elena Rostova,elena.rostova@globalmail.net,+44-20-7946-0912,UK,2024-01-18,Basic,active
+U1005,Aisha Al-Mansoor,aisha.mansoor@qatartech.qa,+974-4455-8821,Qatar,2024-01-20,Premium,active
+U1006,Carlos Rodriguez,carlos.rod@ibero.es,+34-91-123-4567,Spain,2024-01-22,Standard,active
+U1007,Yuki Tanaka,yuki.tanaka@tokyowave.jp,+81-3-5555-0143,Japan,2024-01-25,Basic,active
+U1008,Liam O'Connor,liam.oconnor@dublinmail.ie,+353-1-496-0123,Ireland,2024-01-28,Premium,active
+U1009,Fatima Zahra,fatima.z@atlas.ma,+212-522-334455,Morocco,2024-02-01,Standard,active
+U1010,Sven Lindqvist,sven.lind@nordicstream.se,+46-8-123-4567,Sweden,2024-02-03,Premium,active
+U1011,Ananya Sharma,ananya.s@mumbaitech.in,+91-98111-22334,India,2024-02-05,Premium,active
+U1012,Lucas Silva,lucas.silva@rio.br,+55-21-9876-5432,Brazil,2024-02-08,Standard,active
+U1013,Chloe Dubois,chloe.dubois@parisart.fr,+33-1-4268-5500,France,2024-02-10,Basic,active
+U1014,Oliver Smith,oliver.smith@londonstream.co.uk,+44-20-7123-4567,UK,2024-02-12,Premium,active
+U1015,Mei Ling Zhang,meiling.zhang@asiahub.sg,+65-6789-0123,Singapore,2024-02-15,Standard,active
+U1016,David Miller,david.m@siliconvalley.org,+1-415-555-8899,USA,2024-02-18,Premium,active
+U1017,Priya Patel,priya.patel@ahmedabad.in,+91-99222-33445,India,2024-02-20,Basic,inactive
+U1018,Klaus Becker,klaus.becker@berlintech.de,+49-30-1234-5678,Germany,2024-02-22,Standard,active
+U1019,Sarah Jenkins,sarah.j@austinmedia.com,+1-512-555-7766,USA,2024-02-25,Premium,active
+U1020,Kenji Sato,kenji.sato@kyoto.jp,+81-75-555-9012,Japan,2024-02-28,Standard,active
+U1001,Johnathan Vance,john.vance@example.com,+1-555-019-2831,USA,2024-01-10,Premium,active

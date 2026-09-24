@@ -1,0 +1,16 @@
+content_id,title,content_type,genre,release_year,duration_mins,rating,director
+MOV101,Cybernetic Dawn,Movie,Sci-Fi,2023,135,8.7,Denis Villeneuve
+MOV102,Echoes of the Deep,Movie,Thriller,2022,118,7.9,Guillermo del Toro
+SER201,Quantum Silicon,Series,Drama,2023,55,9.1,Christopher Nolan
+SER202,Midnight Protocol,Series,Cyberpunk,2024,48,8.4,Lilly Wachowski
+MOV103,The Lost Alpine,Movie,Adventure,2021,142,8.2,Alejandro Inarritu
+MOV104,Neon Symphony,Movie,Musical,2023,105,7.4,Damien Chazelle
+DOC301,Silicon Dreams: AI Revolution,Documentary,Technology,2024,90,9.3,Werner Herzog
+SER203,The Black Mirror Files,Series,Sci-Fi,2023,60,8.8,Charlie Brooker
+MOV105,Shadows of Kyoto,Movie,Action,2022,126,8.5,Takashi Miike
+SER204,Constellation Zero,Series,Mystery,2024,52,8.0,David Fincher
+DOC302,Planet Ocean: The Abyss,Documentary,Nature,2023,88,8.9,David Attenborough
+MOV106,Solaris Horizon,Movie,Sci-Fi,2024,150,8.6,Ridley Scott
+MOV107,Laughter Therapy,Movie,Comedy,2022,98,6.8,Taika Waititi
+SER205,Berlin Noir 1989,Series,History,2023,58,8.3,Tom Tykwer
+DOC303,The Neural Frontier,Documentary,Science,2024,75,9.0,Neil deGrasse Tyson

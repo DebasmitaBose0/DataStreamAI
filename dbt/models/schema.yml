@@ -1,0 +1,42 @@
+version: 2
+
+models:
+  - name: stg_events
+    description: "Cleansed raw OTT event logs"
+    columns:
+      - name: event_id
+        description: "Primary key for event"
+        tests:
+          - unique
+          - not_null
+      - name: user_id
+        description: "Foreign key reference to users"
+        tests:
+          - not_null
+      - name: event_type
+        description: "Standardized platform event verb"
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['user_login', 'content_view', 'video_watch', 'search', 'add_to_watchlist', 'subscription', 'logout']
+
+  - name: stg_users
+    description: "Standardized user dimensions"
+    columns:
+      - name: user_id
+        description: "Unique subscriber identifier"
+        tests:
+          - unique
+          - not_null
+      - name: tier
+        tests:
+          - accepted_values:
+              values: ['Basic', 'Standard', 'Premium']
+
+  - name: fact_user_activity
+    description: "User consumption aggregated mart"
+    columns:
+      - name: user_id
+        tests:
+          - unique
+          - not_null
